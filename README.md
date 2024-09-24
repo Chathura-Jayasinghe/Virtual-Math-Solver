@@ -1,7 +1,7 @@
 # Virtual-Math-Solver
 This repo include the virtual math solver using OpenCV.
 
-🚀 **Project Overview**
+## Project Overview 🚀 
 
 The Hand Gesture Math Solver with AI is an innovative application that allows users to solve math problems using hand gestures. Leveraging OpenCV and the Gemini API, this project aims to create an interactive way to engage with mathematics through gesture recognition.
 
